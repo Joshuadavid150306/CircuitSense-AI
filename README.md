@@ -1,5 +1,5 @@
 # CircuitSense AI
-## Hybrid Embedded Hardware Debugging Framework
+## Hybrid AI-Based Embedded Hardware Debugging Framework
 
 ---
 
